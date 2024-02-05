@@ -3,3 +3,4 @@
 .gitignore
 vsc-extension-quickstart.md
 images/**
+!images/boo-logo.png

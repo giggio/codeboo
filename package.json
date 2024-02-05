@@ -1,8 +1,8 @@
 {
   "name": "codeboo",
-  "displayName": "codeboo",
+  "displayName": "Boo language",
   "description": "Syntax Highlighting for Boo",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.86.0"
   },
@@ -14,6 +14,7 @@
     "url": "https://github.com/giggio/codeboo.git"
   },
   "publisher": "GiovanniBassi-MVP",
+  "icon": "images/boo-logo.png",
   "contributes": {
     "languages": [
       {

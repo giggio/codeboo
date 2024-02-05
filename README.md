@@ -9,8 +9,8 @@ This is only offering Syntax hightlighting.
 
 ## Installing
 
-Go to the [VS Code Marketplace](https://marketplace.visualstudio.com/vscode)
-or search for the language `Boo` on Visual Studio Code.
+Go to the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=GiovanniBassi-MVP.codeboo)
+or search for `Boo` language on Visual Studio Code extensions pane.
 
 ## Screenshots
 
