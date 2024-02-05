@@ -1,0 +1,39 @@
+{
+  "name": "codeboo",
+  "displayName": "codeboo",
+  "description": "Syntax Highlighting for Boo",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Programming Languages"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/giggio/codeboo.git"
+  },
+  "publisher": "GiovanniBassi-MVP",
+  "contributes": {
+    "languages": [
+      {
+        "id": "boo",
+        "aliases": [
+          "Boo",
+          "boo"
+        ],
+        "extensions": [
+          ".boo"
+        ],
+        "configuration": "./language-configuration.json"
+      }
+    ],
+    "grammars": [
+      {
+        "language": "boo",
+        "scopeName": "source.boo",
+        "path": "./syntaxes/boo.tmLanguage"
+      }
+    ]
+  }
+}
